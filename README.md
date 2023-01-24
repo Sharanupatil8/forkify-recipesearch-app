@@ -1,4 +1,4 @@
-    # [Forkify](https://forkify-sharan.netlify.app/)
+    # [Forkify]  https://forkify-sharan.netlify.app/
     # ![showcase](src/img/readme-forkify.png)
 
     ## Introduction
